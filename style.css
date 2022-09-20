@@ -25,10 +25,11 @@ img {
     padding-left: 10.5px;
 }
 
-h3 {
+h1 {
     font-weight:700;
     margin-top: 10px;
     margin-bottom: 0;
+    font-size: 1.2em;
 }
 p {
     font-size: 15px;
